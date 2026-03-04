@@ -1,0 +1,6 @@
+csv_cleaning.py
+customer-cleaned.csv
+customers_cleaned_pd.csv
+summary.json
+customers-1000.csv
+generate_fake.py
