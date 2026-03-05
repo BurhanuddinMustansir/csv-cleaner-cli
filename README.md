@@ -11,7 +11,7 @@ A command-line tool to:
 
 ## Usage
 ```
-python cleaner.py input.csv output.csv
+python csv_cleaning_pd.py input.csv output.csv
 
 Optional arguments:
 
